@@ -1,0 +1,13 @@
+{
+  "name": "actuallyscriptedbot_djs14",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "small discord bot made in typescript that works through direct scripting",
+  "main": "./build/index.js",
+  "author": "maruseron",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "tinylazyseq": "^0.3.0"
+  }
+}
